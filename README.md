@@ -54,7 +54,7 @@ Abrir o arquivo index.html
 
 <p>
 
-- Clique aqui > [Sider](https://meu-slider.netlify.app/)
+- Clique aqui > [Slider](https://meu-slider.netlify.app/)
 
 <p>
 
