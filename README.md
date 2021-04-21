@@ -58,8 +58,6 @@ Clique aqui > [Slider Css]('https://meu-slider.netlify.app/')
 
 <p>
 
-(Devido ao próprio heroku, a primeira vez que você clicar no link ele pode não funcionar, aguarde alguns minutos e recarregue a página.)
-
 ## ✒️ Autores
 
 - **Desenvolvedor** - [Samuel Ribeiro](https://github.com/samuelrrs)
