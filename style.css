@@ -52,7 +52,7 @@ body {
   white-space: nowrap;
 }
 
-.img-slide:hover .img {
+.img-slide:hover .img{
     transform: skew(0);
 }
 .img:hover {
@@ -62,5 +62,6 @@ body {
     background-color: transparent;
     border: 2px solid #fff;
     color: #fff;
+    text-shadow: 2px 2px black;
     transform: rotate(0deg)
 }
