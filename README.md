@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre o projeto
 
-Slider eito apenas usando css e html
+Slider feito apenas usando css e html
 
 
 ## 🚀 Começando
